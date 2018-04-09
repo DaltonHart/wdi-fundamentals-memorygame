@@ -54,7 +54,7 @@ var createBoard = function(){
         if (cardsInPlay[0] === cardsInPlay[1]){
             alert("You found a match!");
      } else {
-         alert("Sorry, try again.")
+         alert("Sorry, try again.");
             }
         }
     }
